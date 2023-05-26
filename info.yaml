@@ -25,6 +25,7 @@ documentation:
   author:       "Tiny Tapeout 02 (J. Rosenthal)"      # Your name
   discord:      "jamesr#0350"      # Your discord handle - make sure to include the # part as well
   title:        "7-Seg 'Tiny Tapeout' Display"      # Project title
+  picture:      ""
   language:     "Wokwi" # other examples include Verilog, Amaranth, VHDL, etc
   doc_link:     "https://wokwi.com/projects/347497504164545108"      # URL to longer form documentation, eg the README.md in your repository
   clock_hz:     1       # Clock frequency in Hz (if required) we are expecting max clock frequency to be ~6khz. Provided on input 0.
